@@ -1,0 +1,1 @@
+include ':app', ':beautiful_mvp_lib'
