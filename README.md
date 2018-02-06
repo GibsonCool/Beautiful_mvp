@@ -15,6 +15,6 @@ allprojects {
 *Step 2. Add the dependency*
 ```
 dependencies {
-	        compile 'com.github.GibsonCool:Beautiful_mvp:2.0'
+	        compile 'com.github.GibsonCool:Beautiful_mvp:2.1.0'
 	}
 ```
